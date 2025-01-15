@@ -1,0 +1,20 @@
+#pipeButton{
+	cursor: pointer;
+	text-align: center;
+	flex-grow: 1;
+	width: 40%;
+	font-size: 24px;
+	padding: 0.25em;
+	margin: 0.5em 0 0 0.5em;
+	border-radius: 0.85em;
+}
+#valveButton{
+	cursor: pointer;
+	text-align: center;
+	flex-grow: 1;
+	width: 40%;
+	font-size: 24px;
+	padding: 0.25em;
+	margin: 0.5em 0.5em 0 0.5em;
+	border-radius: 0.85em;
+}
